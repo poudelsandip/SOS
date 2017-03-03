@@ -1,0 +1,9 @@
+<html>
+<head><title>SOS HGSG</title>
+<link rel="icon" type="image" href="1.jpg">
+</head>
+<frameset rows="179,*" frameborder="0">
+<frame name="header" src="header.htm" scrolling="no" noresize>
+<frame name="main" src="home.htm">
+</frameset>
+</html>
